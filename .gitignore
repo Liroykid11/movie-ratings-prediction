@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Large files
+*.csv
+*.pkl
+*.joblib
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+env/
+venv/
