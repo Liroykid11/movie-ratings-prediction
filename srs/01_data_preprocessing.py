@@ -67,4 +67,4 @@ df = pd.concat([df, genre_dummies], axis=1)
 df = df.drop(['Genre', 'Genre_list', 'Genre_list_filtered'], axis=1)
 
 
-df.to_csv('data/processed/cleaned_movies.csv', index=False)
+df.to_csv('data/processed/cleaned_movies_v1.csv', index=False)
