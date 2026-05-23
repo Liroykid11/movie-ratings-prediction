@@ -73,23 +73,21 @@ Average movie ratings have remained relatively stable over the years with slight
 ## 🤖 Model Visualizations
 
 ### Linear Regression
-![Linear Regression Predictions](results/models/linear_regression/predictions_vs_actual.png)
-![Linear Regression Errors](results/models/linear_regression/error_distribution.png)
+![Linear Regression Predictions](results/models/linear_regression/linear_regression_predictions_vs_actual.png)
+![Linear Regression Errors](results/models/linear_regression/linear_regression_error_distribution.png)
 
 ### LassoCV
-![LassoCV Predictions](results/models/lassocv/predictions_vs_actual.png)
-![LassoCV Alpha Path](results/models/lassocv/alpha_path.png)
+![LassoCV Predictions](results/models/lassocv/lassocv_predictions_vs_actual.png)
+![LassoCV Alpha Path](results/models/lassocv/lassocvlassocv_alpha_path.png)
 
 ### RidgeCV
-![RidgeCV Predictions](results/models/ridgecv/predictions_vs_actual.png)
-![RidgeCV Error Analysis](results/models/ridgecv/error_vs_predicted.png)
+![RidgeCV Predictions](results/models/ridgecv/ridgecv_predictions_vs_actual.png)
+![RidgeCV Error Analysis](results/models/ridgecv/ridgecv_error_vs_predicted.png)
 
 ## 📊 Model Comparison
 
-![Model Comparison Bars](results/comparison/model_comparison_bars.png)
-![Predictions Comparison](results/comparison/models_predictions_comparison.png)
-![Errors Comparison](results/comparison/models_errors_comparison.png)
-![Feature Importance Comparison](results/comparison/feature_importance_comparison.png)
+![Model Comparison Bars](results/models/comparison/model_comparison_bars.png)
+
 
 ## 🛠 Technologies Used
 
